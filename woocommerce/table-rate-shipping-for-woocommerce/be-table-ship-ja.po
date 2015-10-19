@@ -1,0 +1,638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Table Rate Shipping for WooCommerce\n"
+"POT-Creation-Date: 2015-04-23 21:47-0500\n"
+"PO-Revision-Date: 2015-10-19 11:08+0900\n"
+"Last-Translator: miyadir <miyadir@miyadir.com>\n"
+"Language-Team: miyadir <miyadir@miyadir.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: woocommerce-table-rate-shipping\n"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:49
+msgid "Toggle featured"
+msgstr ""
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:88
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:427
+msgid "Everywhere"
+msgstr "全てのオーダー"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:93
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:140
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:175
+msgid "Except for"
+msgstr "除外"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:179
+msgid "Data Could Not Be Found"
+msgstr "データが見つかりませんでした"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:202
+msgid "Zone Title"
+msgstr "ゾーン名"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:203
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:433
+msgid "Locations"
+msgstr "場所"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:204
+msgid "Status"
+msgstr "ステータス"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:226
+msgid "A zone with the ID provided does not exist"
+msgstr "提供されたIDを持つゾーンは存在しません"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:231
+msgid "The zone titled"
+msgstr "タイトルのゾーン"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:231
+msgid "has been deleted"
+msgstr "削除されています"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:293
+msgid "Shipping Zones"
+msgstr "配送ゾーン"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:293
+msgid "Add New"
+msgstr "追加"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:298
+msgid "Your zones have been updated"
+msgstr "ゾーンが更新されました"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:298
+msgid "Please test your forms to ensure that everything is in working order"
+msgstr "動作確認のため、フォームのテストを行って下さい"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:305
+msgid "The selected zones have been deleted"
+msgstr "指定されたゾーンは削除されました"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:309
+msgid "An error has occurred and the selected zones were not deleted"
+msgstr "エラーが発生し、指定したゾーンは削除されませんでした"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:382
+msgid "A valid zone ID must be supplied"
+msgstr "有効なゾーンIDを指定する必要があります"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:384
+msgid "Sorry, a zone with the given ID could not be found"
+msgstr "指定されたIDのゾーンは見つかりませんでした"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:410
+msgid "Zone Details"
+msgstr "ゾーンの詳細"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:413
+msgid "Enabled"
+msgstr "有効化"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:414
+msgid "Enable &#47; Disable the use of this zone"
+msgstr "このゾーンを有効化する"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:417
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1322
+msgid "Title"
+msgstr "タイトル"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:421
+msgid "Description"
+msgstr "説明"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:422
+msgid "This is an optional field to provide admins a brief description of this zone"
+msgstr "他の管理者がわかりやすいように簡単な説明を追加して下さい（任意）"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:422
+msgid "This will NOT appear on any shop page"
+msgstr "この値はショップの顧客から見える部分には決して表示されません"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:425
+msgid "Type"
+msgstr "適応区分"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:428
+msgid "Countries &#47; States"
+msgstr "国 / 州 / 都道府県"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:429
+msgid "Postal Code"
+msgstr "郵便番号"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:436
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:463
+msgid "Countries"
+msgstr "国"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:440
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:541
+msgid "Except"
+msgstr "除外"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:442
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:465
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:486
+msgid "Choose countries &#47; states&hellip;"
+msgstr "国 / 州 / 都道府県を選択肢て下さい"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:484
+msgid "Except the States &#47; Provinces"
+msgstr "除外する州 / 都道府県"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:506
+msgid "Except the Postal Codes"
+msgstr "除外する郵便番号"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:508
+msgid "is used to separate all postal code entries"
+msgstr "は郵便番号を区切るのに使用できます"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:509
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:536
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:543
+msgid "is used to separate two postal codes in a range (numerical codes ONLY)"
+msgstr "は二つの番号の間の範囲の郵便番号を設定したい時に使用できます（数字の郵便番号のみ有効）"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:510
+msgid "is a wildcard used to represent multiple characters &#47; numbers"
+msgstr "は複数の数字や文字を表すワイルドカードとして使用できます"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:511
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:538
+msgid "is used to denote postal codes or ranges to be excluded"
+msgstr "は除外すべき郵便番号や範囲を示すために使用できます"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:516
+msgid "Country"
+msgstr "国"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:517
+msgid "Choose a country&hellip;"
+msgstr "国を選択してください"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:534
+msgid "Postal Codes"
+msgstr "郵便番号"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:537
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:544
+msgid "is a wildcard used to representent multiple characters/numbers"
+msgstr "は複数の数字や文字を表すワイルドカードとして使用できます"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:589
+msgid "You do not have sufficient permissions to access this page"
+msgstr "このページにアクセスする権限がありません"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:590
+msgid "You have taken too long"
+msgstr "タイムアウト"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:590
+msgid "Please go back and retry"
+msgstr "再度読み込みしてください"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:46
+msgid "Table Rate"
+msgstr "テーブルレート"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:47
+msgid "Table Rates"
+msgstr "テーブルレート"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:48
+msgid ""
+"Table rate shipping allows you to set numerous rates based on location and specified conditions. Click the headlines "
+"below to expand or hide additional settings."
+msgstr "このエクステンションでは場所や条件に基づいてさまざまな配送料を設定することができます。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:177
+msgid "General Settings"
+msgstr "一般設定"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:182
+msgid "Enable &#47; Disable"
+msgstr "有効にする"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:184
+msgid "Enable this shipping method"
+msgstr "この配送方法を有効にする"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:188
+msgid "Method Title"
+msgstr "タイトル"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:191
+msgid "Shipping"
+msgstr "運送"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:194
+msgid "Tax Status"
+msgstr "税ステータス"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:198
+msgid "Taxable"
+msgstr "課税"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:199
+msgid "None"
+msgstr "なし"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:203
+msgid "Condition"
+msgstr "送料発生条件"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:207
+msgid "Per Order"
+msgstr "注文ごと"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:208
+msgid "Per Item"
+msgstr "商品ごと"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:209
+msgid "Per Class"
+msgstr "配送クラスごと"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:213
+msgid "Free Shipping Override"
+msgstr "送料無料設定"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:218
+msgid "Free Shipping at"
+msgstr "この料金以上で送料無料にする"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:220
+msgid "Minimum cost of ALL cart items to be eligible for free shipping. Leave blank to disable free shipping option"
+msgstr "Minimum cost of ALL cart items to be eligible for free shipping. Leave blank to disable free shipping option"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:225
+msgid "Free Shipping Label"
+msgstr "送料無料時のタイトル"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:227
+msgid "Label to appear next to Free Shipping Option in cart/checkout pages"
+msgstr "カート/決済ページ表示されるタイトル"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:231
+msgid "Add Free Shipping as Option"
+msgstr "送料無料をオプションとして選ぶ形にしない"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:233
+msgid ""
+"When checked, free shipping will be the only shipping cost, otherwise free shipping will be added as an option in "
+"addition to the table below"
+msgstr "チェックすると、「送料無料」が唯一の配送オプションになります。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:237
+msgid "Tax Options"
+msgstr "税金設定"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:242
+msgid "Include Tax"
+msgstr "税金を含む"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:244
+msgid "Calculate shipping based on prices AFTER tax"
+msgstr ""
+"配送料金の計算をカート内商品の課税後の合計金額で計算する。<br />e.g. 1500円で送料無料の場合、カート内が1499円（税抜）"
+"の場合に送料無料にするか否か。<br />チェックしたら送料無料に、しなければ送料が必要となる。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:248
+msgid "Volumetric Shipping"
+msgstr "荷物の大きさによって送料を変える"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:253
+msgid "Enable Volumetric Comparison"
+msgstr "荷物の大きさによる送料変更を有効にする"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:255
+msgid ""
+"When activated, plugin will determine if volumetric weight is heavier than weight given and charge shipping based on "
+"the higher amount"
+msgstr "有効化すると、「実際の重さ」か「体積重量」のどちらか高い方に基づき送料を計算します。<br />"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:259
+msgid "Volumetric Divisor"
+msgstr "Volumetric Divisor（ざっくり除数）<br />( Dimensional Weight Divisor)"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:261
+msgid "This number can be found through your carrier's website"
+msgstr ""
+"海外の配送サービスでは (縦*横*高)/Volumetric Divisor で大体の重さを計算するそうです。<br />\n"
+"例えばDHLではVolumetric Divisorは5000となり、縦横高がそれぞれ10cmだと<br />\n"
+"(10*10*10)/5000 = 0.2kgと計算します。<br />\n"
+"この数字は各社異なるらしいので自分が利用する配送会社のdivisorを各自調べて入力して下さい。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:265
+msgid "Miscellaneous Settings"
+msgstr "その他の設定"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:270
+msgid "Include Coupons"
+msgstr "クーポンを含める"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:272
+msgid "Subtotal is calculated based on cart value after coupons"
+msgstr "クーポンを適応した後の金額を合計金額として計算する"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:276
+msgid "Single Class Only"
+msgstr "単一のクラスのみ"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:278
+msgid "When enabled, only items of the highest priority shipping class will be counted towards the shipping cost"
+msgstr "有効化すると、プライオリティが一番高い配送クラスの商品が配送料金としてカウントされます<br />"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:278
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:284
+msgid "Per Class Method Only"
+msgstr "Table Rate ->一般設定->送料発生条件を「配送クラスごと」にした場合のみ有効"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:282
+msgid "Highest Costing Class"
+msgstr "一番送料の高い配送クラス"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:284
+msgid "When enabled, the highest shipping cost from the per class calculations will be charged"
+msgstr "有効化すると、配送クラスごとの送料から計算し一番高い送料が適応されます<br />"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:288
+msgid "No Fees on Free Shipping"
+msgstr "配送料金無料時の手数料"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:290
+msgid "Do not add fees from Handling Fees table when shipping cost is Free"
+msgstr "配送料が無料になった場合に取扱料金・基本料金（Handling Fees）をとらない"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:294
+msgid "Round Weight"
+msgstr "重量切り上げ"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:296
+msgid "Rounds weight value up to the next whole number"
+msgstr "重量を切り上げする"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:300
+msgid "Hide This Method"
+msgstr "Hide This Method"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:302
+msgid "Hide This Shipping Method When the Free Shipping Method is Available"
+msgstr "無料配送（the Free Shipping）が有効な時はこの郵送方法を隠す"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:306
+msgid "Minimum Shipping Cost"
+msgstr "最低配送料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:308
+msgid "The minimum shipping price a customer pays no matter what the table returns"
+msgstr "テーブルやゾーンの設定がどうであれ、１つのオーダーで発生する最低の配送料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:312
+msgid "Maximum Shipping Cost"
+msgstr "最高配送料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:314
+msgid "The maximum shipping price a customer pays no matter what the table returns"
+msgstr "テーブルやゾーンの設定がどうであれ、１つのオーダーで発生する最高の配送料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:318
+msgid "Shipping Cost Tables"
+msgstr "送料表"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1278
+msgid "Handling / Base Rates"
+msgstr "取扱料金・基本料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1284
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1324
+msgid "Zone"
+msgstr "ゾーン"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1284
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1324
+msgid "Setup and review zones under the Shipping Zones tab"
+msgstr "「Shipping Zones」タブからゾーンを編集してください"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1285
+msgid "Fee"
+msgstr "料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1285
+msgid "Adds the specified percentage of purchase total followed by the fixed fee"
+msgstr ""
+"固定の料金を入力。さらに商品総額に応じた手数料を％指定で加算することができます。２つの料金は加算・同時使用できます。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1290
+msgid "Add Handling Fee"
+msgstr "Add Handling Fee"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1291
+msgid "Delete selected fees"
+msgstr "選択した手数料を削除"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1309
+msgid ""
+"Set different handling rates or base fees for different countries. These prices will be added to all qualifying "
+"orders."
+msgstr "配送先に応じて取扱手数料を設定する<br />これらの手数料は有効なオーダー全てに加算されます"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1316
+msgid "Shipping Table Rates"
+msgstr "Shipping Table Rates"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1322
+msgid "This controls the title which the user sees during checkout"
+msgstr "支払画面で表示されます"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1323
+msgid "Identifier"
+msgstr "識別子"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1323
+msgid "Separates which rates are combined and which become different options. If left blank, one will be generated."
+msgstr ""
+"Separates which rates are combined and which become different options. If left blank, one will be generated.\n"
+"<br />空欄にすると自動的に生成されます。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1325
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1399
+msgid "Shipping Class"
+msgstr "配送クラス"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1326
+msgid "Based On"
+msgstr "料金基準"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1327
+msgid "Min"
+msgstr "Min"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1328
+msgid "Max"
+msgstr "Max"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Cost"
+msgstr "Cost"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Fixed Price"
+msgstr "固定の料金"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Percentage of Subtotal"
+msgstr "料金総額の％"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Multiply cost by quantity"
+msgstr "量で乗算"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Multiply cost by weight"
+msgstr "重さで乗算"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1329
+msgid "Deny: the titled shipping rate will be removed"
+msgstr "一時停止：一時的にこの郵送方法を停止状態にします"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1330
+msgid "Bundle"
+msgstr "バンドル"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1330
+msgid "If supplied, charges cost up until quantity given. Then charges second price for this and every item after."
+msgstr "注文の商品数（qty）によって送料を変更することができます。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1331
+msgid "Default"
+msgstr "デフォルト"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1331
+msgid "Check the box to set this option as the default selected choice on the cart page"
+msgstr "カートページでこのオプションをデフォルトにしたい場合はチェックして下さい"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1336
+msgid "Add Table Rate"
+msgstr "テーブルレートを追加する"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1337
+msgid "Use the wildcard symbol (*) to denote multiple regions"
+msgstr ""
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1338
+msgid "Duplicate selected rates"
+msgstr "選択したレートを複製"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1339
+msgid "Delete selected rates"
+msgstr "選択したレートを削除"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1379
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1380
+msgid "n/a"
+msgstr "N / A"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1381
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1383
+msgid "0.00"
+msgstr "0.00"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1394
+msgid "Shipping Class Priorities"
+msgstr "配送クラスの優先順位"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1400
+msgid "Priority"
+msgstr "優先順位"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1401
+msgid "Exclude"
+msgstr "除外する"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1406
+msgid ""
+"These priorities will be used to calculate the appropriate shipping price in the table above. When an order has "
+"items of different shipping classes, the one with the highest priority will be used."
+msgstr ""
+"これらの優先順位は上記のテーブルでの送料計算が適切に行われるのに使用されます。<br />\n"
+"複数の商品が同時に注文され、それぞれの商品が異なる配送クラスを持っていた場合に優先順位が一番高い配送クラスの商品の送"
+"料が適応されます。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1454
+msgid "Set the Order Shipping Options Will Appear"
+msgstr "郵送オプションの順番を変更する"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1457
+msgid "Shipping Cost Order"
+msgstr "順番"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1472
+msgid "Not seeing all of your options"
+msgstr "オプションが見えない場合"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1472
+msgid "Refresh List"
+msgstr "リストを再読み込み"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1549
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1571
+msgid "Delete the selected rates"
+msgstr "選択されたレートを削除する"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1994
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1996
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1998
+msgid "Attention"
+msgstr "警告"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1994
+msgid ""
+"Version 3.3 of the Table Rate Shipping plugin for WooCommerce introduced a new, more efficient way of storing zone "
+"information. You will need to update your system in order for the plugin to continue functioning properly."
+msgstr "Table Rate Shipping plugin for WooCommerce 3.3はもっとパワフルでいい感じになったのでアップデートして下さい。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1996
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1998
+msgid ""
+"You have not defined any shipping zones for the WooCommerce Table Rate Shipping plugin. You must setup your zones "
+"before creating any rates in the shipping method's settings page."
+msgstr "まだ設定が完了していません。料金表を作る前にまずゾーンの設定をして下さい。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2086
+msgid "Your zones have been updated. Please test your forms to ensure that everything is in working order."
+msgstr "ゾーンの更新が完了しました。動作確認のため、フォームのテストを行って下さい"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2163
+msgid "Settings"
+msgstr "[設定]"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2164
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2174
+msgid "Registration"
+msgstr "登録"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2199
+msgid "View details"
+msgstr "詳細を見る"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2200
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2201
+msgid "Support"
+msgstr "サポート"
