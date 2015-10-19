@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Table Rate Shipping for WooCommerce\n"
 "POT-Creation-Date: 2015-04-23 21:47-0500\n"
-"PO-Revision-Date: 2015-10-19 11:08+0900\n"
+"PO-Revision-Date: 2015-10-19 13:17+0900\n"
 "Last-Translator: miyadir <miyadir@miyadir.com>\n"
 "Language-Team: miyadir <miyadir@miyadir.com>\n"
 "Language: en_US\n"
@@ -61,7 +61,7 @@ msgstr "削除されています"
 
 #: woocommerce-table-rate-shipping/inc/zone-list-table.php:293
 msgid "Shipping Zones"
-msgstr "配送ゾーン"
+msgstr "ゾーン設定"
 
 #: woocommerce-table-rate-shipping/inc/zone-list-table.php:293
 msgid "Add New"
@@ -122,7 +122,7 @@ msgstr "この値はショップの顧客から見える部分には決して表
 
 #: woocommerce-table-rate-shipping/inc/zone-list-table.php:425
 msgid "Type"
-msgstr "適応区分"
+msgstr "適用区分"
 
 #: woocommerce-table-rate-shipping/inc/zone-list-table.php:428
 msgid "Countries &#47; States"
@@ -346,7 +346,7 @@ msgstr "クーポンを含める"
 
 #: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:272
 msgid "Subtotal is calculated based on cart value after coupons"
-msgstr "クーポンを適応した後の金額を合計金額として計算する"
+msgstr "クーポンを適用した後の金額を合計金額として計算する"
 
 #: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:276
 msgid "Single Class Only"
@@ -367,7 +367,7 @@ msgstr "一番送料の高い配送クラス"
 
 #: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:284
 msgid "When enabled, the highest shipping cost from the per class calculations will be charged"
-msgstr "有効化すると、配送クラスごとの送料から計算し一番高い送料が適応されます<br />"
+msgstr "有効化すると、配送クラスごとの送料から計算し一番高い送料が適用されます<br />"
 
 #: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:288
 msgid "No Fees on Free Shipping"
@@ -570,7 +570,7 @@ msgid ""
 msgstr ""
 "これらの優先順位は上記のテーブルでの送料計算が適切に行われるのに使用されます。<br />\n"
 "複数の商品が同時に注文され、それぞれの商品が異なる配送クラスを持っていた場合に優先順位が一番高い配送クラスの商品の送"
-"料が適応されます。"
+"料が適用されます。"
 
 #: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1454
 msgid "Set the Order Shipping Options Will Appear"
