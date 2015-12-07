@@ -1,0 +1,780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Stripe\n"
+"POT-Creation-Date: 2015-12-06 07:54+0900\n"
+"PO-Revision-Date: 2015-12-07 10:33+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"Language: ja\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class-yith-stripe-admin.php:72
+#: ../includes/class-yith-stripe-admin.php:165
+msgid "Settings"
+msgstr "設定"
+
+#: ../includes/class-yith-stripe-admin.php:76
+#: ../includes/class-yith-stripe-admin.php:168
+msgid "Premium Version"
+msgstr "有料版"
+
+#: ../includes/class-yith-stripe-admin.php:82
+#: ../includes/class-yith-stripe-admin.php:83
+#: ../includes/class-yith-stripe-gateway.php:81
+msgid "Stripe"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:143
+msgid "Authorize & Capture status"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:145
+msgid "Captured"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:145
+msgid "Authorized only (not captured yet)"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:193
+msgid "Plugin Documentation"
+msgstr "ドキュメント"
+
+#: ../includes/class-yith-stripe-admin.php:214
+msgid "YITH WooCommerce Stripe"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:215
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Stripe options. From this "
+"menu you can access all settings of YITH plugins activated."
+msgstr ""
+"メニューのYIT PluginsタブからStripeの設定が変更できますので、そこからプラグイ"
+"ンをアクティベートしてください。"
+
+#: ../includes/class-yith-stripe-blacklist-admin.php:47
+#: ../includes/class-yith-stripe-blacklist-admin.php:48
+msgid "Stripe blacklist"
+msgstr "ブラックリスト"
+
+#: ../includes/class-yith-stripe-blacklist-admin.php:69
+msgid "Blacklist"
+msgstr "ブラックリスト"
+
+#: ../includes/class-yith-stripe-blacklist-admin.php:143
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:63
+msgid "User"
+msgstr "ユーザー"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:64
+msgid "IP Address"
+msgstr "IPアドレス"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:65
+msgid "Order"
+msgstr "オーダー"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:66
+msgid "Date"
+msgstr "日付"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:67
+msgid "Actions"
+msgstr "アクション"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:81
+#: ../includes/class-yith-stripe-blacklist-table.php:378
+msgid "Ban"
+msgstr "BAN"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:82
+#: ../includes/class-yith-stripe-blacklist-table.php:374
+msgid "Unban"
+msgstr "BAN解除"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:98
+msgid "All"
+msgstr ""
+
+#: ../includes/class-yith-stripe-blacklist-table.php:99
+#: ../includes/class-yith-stripe-blacklist-table.php:291
+msgid "Banned"
+msgstr "BAN済"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:100
+#: ../includes/class-yith-stripe-blacklist-table.php:291
+msgid "Unbanned"
+msgstr "BAN解除済"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:298
+msgid "Unknown"
+msgstr "不明"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:323
+msgid "Guest"
+msgstr "ゲスト"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:353
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: ../includes/class-yith-stripe-blacklist-table.php:360
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:363
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/class-yith-stripe-blacklist-table.php:423
+msgid "No bans found."
+msgstr "BANされたユーザーはいません"
+
+#: ../includes/class-yith-stripe-blacklist-table.php:438
+msgid "Filter"
+msgstr "フィルター"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:34
+msgid "Place order"
+msgstr "オーダーする"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:71
+msgid "Payment Mode"
+msgstr "決済モード"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:73
+#, php-format
+msgid ""
+"Standard will display credit card fields on your store (SSL required). %s "
+"Stripe checkout will redirect the user to the checkout page hosted in Stripe."
+msgstr ""
+"スタンダードはクレジットカード入力フィールドをサイト上に直接表示します。（要"
+"SSL）\n"
+"%s StripeチェックアウトはStripe上の決済ページにユーザーをリダイレクトします。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:76
+msgid "Standard"
+msgstr "スタンダード（要SSL）"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:77
+msgid "Stripe Checkout"
+msgstr "Stripe チェックアウト"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:82
+msgid "Capture"
+msgstr "決済承認"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:84
+#, php-format
+msgid ""
+"Decide whether to immediately capture the charge or not. When \"Authorize "
+"only & Capture later\" is selected, the charge issues an authorization (or "
+"pre-authorization), and will be captured later. Uncaptured charges expire in "
+"%2$s7 days%3$s. %1$sFor further information, see %4$sauthorizing charges and "
+"settling later%5$s."
+msgstr ""
+"決済をその場で確定させるかどうかを決定します。「オーソリのみ + 後日確定」が選"
+"択された場合、オーソリのみ行い決済確定は後日行います。\n"
+"確定していない決済は%2$s7 日%3$s. で有効期限が切れ、決済金額回収ができなくな"
+"るため注意して下さい。詳しく知りたい方は%1$sサポートページ"
+"へ。%4$sauthorizing charges and settling later%5$s."
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:93
+msgid "Authorize only & Capture later"
+msgstr "オーソリのみ + 後日確定"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:94
+msgid "Authorize & Capture immediately"
+msgstr "オーソリ + 即時確定"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:99
+msgid "Save cards"
+msgstr "カードを保存"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:101
+msgid "Enable \"Remember cards\""
+msgstr "カードを保存できるようにする"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:102
+msgid "Save users' credit cards to let them use them for future payments."
+msgstr "次回からカード情報の入力を省略できるようにする。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:107
+#: ../includes/class-yith-stripe-gateway-advanced.php:109
+msgid "Accepting Bitcoin"
+msgstr "ビットコインでの決済"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:110
+msgid ""
+"Option available only for \"Stripe Checkout\" payment mode. Stripe supports "
+"accepting Bitcoin alongside payments with credit cards."
+msgstr "決済モードが「Stripe チェックアウト」の場合に使用できます。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:111
+msgid ""
+"You currently need a <b>United States bank account</b> to accept Bitcoin "
+"payments."
+msgstr "ビットコインでの決済を行うには合衆国の銀行アカウントが必要です。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:119
+msgid "Button label"
+msgstr "決済ボタン"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:122
+msgid "Define the label for the button on checkout."
+msgstr "決済時に表示されるボタン用の文字を入力して下さい"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:123
+msgid "Placeholder."
+msgstr "決済する"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:129
+msgid "Debug Log"
+msgstr "デバッグ"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:131
+msgid "Enable logging"
+msgstr "ログを保存する"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:133
+#, php-format
+msgid "Log Stripe events inside <code>%s</code>"
+msgstr "Stripeイベントのログを保存する <code>%s</code>"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:133
+#, php-format
+msgid ""
+"You can also consult the logs in your <a href=\"%s\">Logs Dashboard</a>, "
+"without checking this option."
+msgstr ""
+"チェックをしない場合でも、こちらでログを確認できます。 <a href=\"%s\" "
+"target=“_blank”>Logs Dashboard</a>"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:139
+msgid "Config Webhooks"
+msgstr "Webhooks"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:141
+#, php-format
+msgid ""
+"You can configure the webhook url %s in your <a href=\"%s\">application "
+"settings</a>. All the webhooks for all your connected users will be sent to "
+"this endpoint."
+msgstr ""
+"以下のurlでwebhook を configureできます。 %s in your <a href=\"%s"
+"\">application settings</a>.\n"
+"全ての顧客のWebhooks はこのエンドポイントに送られます。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:142
+msgid ""
+"It's important to note that while only test webhooks will be sent to your "
+"development webhook url, <b>both live and test</b> webhooks will be sent to "
+"your production webhook url. This is due to the fact that you can create "
+"both live and test objects under a production application"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:142
+msgid ""
+"we'd recommend that you check the livemode when receiving an event webhook."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:143
+#, php-format
+msgid ""
+"For more information about webhooks, see the <a href=\"%s\">webhook "
+"documentation</a>"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:149
+msgid "Security"
+msgstr "セキュリティ"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:151
+#: ../includes/class-yith-stripe-gateway.php:263
+msgid ""
+"Enable here the testing mode, to debug the payment system before going into "
+"production"
+msgstr "デバッグモードを使用"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:154
+msgid "Enable Blacklist"
+msgstr "ブラックリストを使用する"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:156
+msgid ""
+"Hide gateway payment on frontend if the same user or the same IP address "
+"have already failed a payment. The blacklist table is available on "
+"WooCommerce -> Stripe Blacklist"
+msgstr ""
+"ブラックリストユーザーが決済を行おうとした場合にクレジットカードによる決済を"
+"選択肢から取り除く。\n"
+"ブラックリストの一覧は WooCommerce -> Stripe Blacklistから確認できます。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:323
+msgid ""
+"Please make sure that your card details have been entered correctly and that "
+"your browser supports JavaScript."
+msgstr ""
+"お客様のクレジットカード情報が正しく入力されているか再度確認下さい。\n"
+"JavaScriptが有効でないブラウザでこのメッセージが発生することがあります。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:326
+msgid ""
+"Developers: Please make sure that you're including jQuery and that there are "
+"no JavaScript errors in the page."
+msgstr ""
+"開発者向：jQueryがインクルードされ、JavaScriptのエラーがページ内で発生してい"
+"ないか確認して下さい。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:377
+#: ../includes/class-yith-stripe-gateway.php:351
+#, php-format
+msgid "%s - Order %s"
+msgstr "%s - オーダー %s"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:409
+#: ../includes/class-yith-stripe-gateway.php:370
+#, php-format
+msgid "Stripe payment approved (ID: %s)"
+msgstr "決済が承認されました (ID: %s)"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:461
+msgid "There isn't any charge linked to this order"
+msgstr "このオーダーに対する決済リンクが見つかりません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:469
+msgid "Refund not supported for bitcoin"
+msgstr "bitcoinはリファンドに対応していません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:477
+msgid ""
+"It's not possible to refund the order because the charge has not been "
+"captured yet."
+msgstr "決済が確定していないため、返金処理を行うことができません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:515
+#, php-format
+msgid "Stripe Credit Card Refund Failed with message: \"%s\""
+msgstr "クレジットカードの返金処理が失敗しました： ”%s”"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:653
+msgid "A valid Name on Card is required."
+msgstr "クレジットカードに記載されたお名前を入力して下さい"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:654
+msgid "The credit card number appears to be invalid."
+msgstr "クレジットカードナンバーが有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:655
+msgid "The CVC number appears to be invalid."
+msgstr "セキュリティコード（CVC）が有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:656
+msgid "The expiration date appears to be invalid."
+msgstr "カードの有効期限が有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:669
+#: ../includes/class-yith-stripe-gateway.php:481
+#, php-format
+msgid "TEST MODE ENABLED. Use a test card: %s"
+msgstr ""
+"テストモードです。以下のURLからテスト用のカードを入手し使用してください。： "
+"%s"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:684
+#: ../templates/stripe-saved-cards.php:24
+msgid "Card"
+msgstr "クレジットカード"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:689
+msgid "Bitcoin"
+msgstr "ビットコイン"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:767
+#: ../includes/class-yith-stripe-gateway-advanced.php:768
+msgid "Name on Card"
+msgstr "クレジットカードに記載されたお名前"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:772
+#: ../templates/stripe-saved-cards.php:34
+msgid "Card Number"
+msgstr "カードナンバー"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:777
+msgid "Expiration Date (MM/YY)"
+msgstr "有効期限 (MM/YY)"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:778
+msgid "MM / YY"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:782
+msgid "Security Code"
+msgstr "セキュリティコード"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:782
+msgid "What is my CVV code?"
+msgstr "CVV（セキュリティコード）とは何ですか？"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:783
+msgid "Security Code (CVV2)"
+msgstr "セキュリティコード (CVV2)"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:787
+msgid "Visa&reg;, Mastercard&reg;, and Discover&reg; cardholders:"
+msgstr "Visa&reg;, Mastercard&reg;, and Discover&reg; :"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:789
+msgid ""
+"Turn your card over and look at the signature box. You should see either the "
+"entire 16-digit credit card number or\n"
+"\t\t\t\t\t\tjust the last four digits followed by a special 3-digit code. "
+"This 3-digit code is your CVV number / Card Security Code."
+msgstr ""
+"カードの裏側、サイン記入欄に記入された下３桁の数字がセキュリティコード（CVV）"
+"です。"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:794
+msgid "American Express&reg; cardholders:"
+msgstr "American Express&reg; :"
+
+#: ../includes/class-yith-stripe-gateway-advanced.php:796
+msgid ""
+"Look for the 4-digit code printed on the front of your card just above and "
+"to the right of your main credit card number.\n"
+"\t\t\t\t\t\tThis 4-digit code is your Card Identification Number (CID). The "
+"CID is the four-digit code printed just above the Account Number."
+msgstr ""
+"カードの裏側、サイン記入欄に記入された下４桁の数字がセキュリティコード（CID）"
+"です。"
+
+#: ../includes/class-yith-stripe-gateway.php:82
+msgid ""
+"Take payments via Stripe - uses stripe.js to create card tokens and the "
+"Stripe SDK. Requires SSL when sandbox is disabled."
+msgstr ""
+"Stripeによる決済 - カードトークンとStripe SDKを利用するためにstripe.jsを使用"
+"して下さい。\n"
+"sandboxが使用できない場合はSSLが必要です。"
+
+#: ../includes/class-yith-stripe-gateway.php:137
+msgid "The card number is incorrect."
+msgstr "カード番号が間違っています。"
+
+#: ../includes/class-yith-stripe-gateway.php:138
+msgid "The card number is not a valid credit card number."
+msgstr "カード番号が有効な番号ではありません。"
+
+#: ../includes/class-yith-stripe-gateway.php:139
+msgid "The card's expiration month is invalid."
+msgstr "カードの利用期限（月）が有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway.php:140
+msgid "The card's expiration year is invalid."
+msgstr "カードの利用期限（年）が有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway.php:141
+msgid "The card's security code is invalid."
+msgstr "カードのセキュリティコードが有効な数値ではありません。"
+
+#: ../includes/class-yith-stripe-gateway.php:142
+msgid "The card has expired."
+msgstr "カードの有効期限が切れています。"
+
+#: ../includes/class-yith-stripe-gateway.php:143
+msgid "The card's security code is incorrect."
+msgstr "カードのセキュリティコードが間違っています。"
+
+#: ../includes/class-yith-stripe-gateway.php:144
+msgid "The card's zip code failed validation."
+msgstr "郵便番号が有効な数値ではないようです。"
+
+#: ../includes/class-yith-stripe-gateway.php:145
+msgid "The card was declined."
+msgstr ""
+"お使いのクレジットカードのご利用は、クレジットカード会社により拒否されまし"
+"た。"
+
+#: ../includes/class-yith-stripe-gateway.php:145
+msgid "Your card was declined."
+msgstr ""
+"お使いのクレジットカードのご利用は、クレジットカード会社により拒否されまし"
+"た。"
+
+#: ../includes/class-yith-stripe-gateway.php:146
+msgid "There is no card on a customer that is being charged."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:147
+msgid "An error occurred while processing the card."
+msgstr "決済中にエラーが発生しました。"
+
+#: ../includes/class-yith-stripe-gateway.php:148
+msgid ""
+"An error occurred due to requests hitting the API too quickly. Please let us "
+"know if you're consistently running into this error."
+msgstr ""
+"APIへのリクエストが早すぎた為エラーが発生しました。\n"
+"このエラーが発生したらStripeに連絡して下さい。"
+
+#: ../includes/class-yith-stripe-gateway.php:163
+msgid "Stripe needs the CURL PHP extension."
+msgstr "Stripeを使用するにはCURL PHPが必要です。"
+
+#: ../includes/class-yith-stripe-gateway.php:167
+msgid "Stripe needs the JSON PHP extension."
+msgstr "Stripeを使用するにはJSON PHPが必要です。"
+
+#: ../includes/class-yith-stripe-gateway.php:171
+msgid "Stripe needs the Multibyte String PHP extension."
+msgstr "Stripeを使用するにはMultibyte String PHPが必要です。"
+
+#: ../includes/class-yith-stripe-gateway.php:175
+msgid "Please enter the public and private keys for Stripe gateway."
+msgstr ""
+"Stripeゲートウェイを利用するために、パブリックキーとプライベートキーを入力し"
+"て下さい。"
+
+#: ../includes/class-yith-stripe-gateway.php:179
+msgid ""
+"Stripe sandbox testing is disabled and can performe live transactions but "
+"the <a href=\"%s\">force SSL option</a> is disabled; your checkout is not "
+"secure! Please enable SSL and ensure your server has a valid SSL "
+"certificate. <a href=\"%\">Learn more</a>."
+msgstr ""
+"Stripe サンドボックステストが使用できず、ライブトランザクションを行うとしてい"
+"ますが <a href=\"%s\">強制SSL</a>が使用できません。\n"
+"現在の設定だと決済にセキュリティ上の問題が存在します。<a href=\"%\">Learn "
+"more</a>."
+
+#: ../includes/class-yith-stripe-gateway.php:229
+msgid "Enable/Disable"
+msgstr "有効化"
+
+#: ../includes/class-yith-stripe-gateway.php:231
+msgid "Enable Stripe Payment"
+msgstr "Stripe Paymentを有効にする"
+
+#: ../includes/class-yith-stripe-gateway.php:235
+msgid "Title"
+msgstr "タイトル"
+
+#: ../includes/class-yith-stripe-gateway.php:237
+msgid "This controls the title which the user sees during checkout."
+msgstr "ユーザーに表示される決済名を設定します"
+
+#: ../includes/class-yith-stripe-gateway.php:238
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+#: ../includes/class-yith-stripe-gateway.php:242
+msgid "Description"
+msgstr "説明"
+
+#: ../includes/class-yith-stripe-gateway.php:245
+msgid "This controls the description which the user sees during checkout."
+msgstr "決済時にユーザーに表示される説明文を入力します。"
+
+#: ../includes/class-yith-stripe-gateway.php:246
+msgid "Pay with a credit card."
+msgstr "クレジットカードでお支払い"
+
+#: ../includes/class-yith-stripe-gateway.php:249
+msgid "Customization"
+msgstr "カスタマイズ"
+
+#: ../includes/class-yith-stripe-gateway.php:251
+msgid "Customize the payment gateway on frontend"
+msgstr "フロントエンドの決済方法をカスタマイズする"
+
+#: ../includes/class-yith-stripe-gateway.php:254
+msgid "Modal image"
+msgstr "モーダルイメージ"
+
+#: ../includes/class-yith-stripe-gateway.php:257
+msgid "Define the URL of image to show on Stripe checkout modal."
+msgstr "決済中のモーダル画像のURLを入力"
+
+#: ../includes/class-yith-stripe-gateway.php:261
+msgid "Testing & Debug"
+msgstr "テスト & デバッグ"
+
+#: ../includes/class-yith-stripe-gateway.php:266
+msgid "Enable Test Mode"
+msgstr "テストモードを有効にする"
+
+#: ../includes/class-yith-stripe-gateway.php:268
+msgid ""
+"Check this option if you want to test the gateway before going into "
+"production"
+msgstr "本番環境の前に決済のテストをしたい場合にチェック"
+
+#: ../includes/class-yith-stripe-gateway.php:272
+msgid "API Keys"
+msgstr "API キー"
+
+#: ../includes/class-yith-stripe-gateway.php:274
+#, php-format
+msgid "You can find it in <a href=\"%s\">your stripe dashboard</a>"
+msgstr ""
+"APIキーは <a href=\"%s\" target=“_blank”> stripe dashboard</a>から入手できま"
+"す。"
+
+#: ../includes/class-yith-stripe-gateway.php:277
+msgid "Test Secret Key"
+msgstr "テストシークレットキー<br />（Test Secret Key）"
+
+#: ../includes/class-yith-stripe-gateway.php:279
+msgid "Set the secret API key for test"
+msgstr "テストのためのシークレットAPIを入力"
+
+#: ../includes/class-yith-stripe-gateway.php:284
+msgid "Test Publishable Key"
+msgstr "テストパブリッシュキー<br />（Test Publishable Key）"
+
+#: ../includes/class-yith-stripe-gateway.php:286
+msgid "Set the published API key for test"
+msgstr "テストのためのパブリッシュAPIキー（ published API key）を入力"
+
+#: ../includes/class-yith-stripe-gateway.php:291
+msgid "Live Secret Key"
+msgstr ""
+"ライブシークレットキー<br />\n"
+"（Live Secret Key）"
+
+#: ../includes/class-yith-stripe-gateway.php:293
+msgid "Set the secret API key for live production"
+msgstr "シークレットAPIキー（secret API）を入力"
+
+#: ../includes/class-yith-stripe-gateway.php:298
+msgid "Live Publishable Key"
+msgstr "パブリッシュキー<br />（Live Publishable Key）"
+
+#: ../includes/class-yith-stripe-gateway.php:300
+msgid "Set the published API key for live production"
+msgstr "パブリッシュAPIキー（published API key）を入力"
+
+#: ../includes/class-yith-stripe-gateway.php:398
+#, php-format
+msgid "Order #%s"
+msgstr " オーダー %s"
+
+#: ../includes/class-yith-stripe-gateway.php:400
+msgid "Proceed to payment"
+msgstr "決済を進める"
+
+#: ../includes/class-yith-stripe-gateway.php:421
+msgid ""
+"Thank you for your order, please click the button below to pay with credit "
+"card using Stripe."
+msgstr ""
+"ご注文ありがとうございます。\n"
+"このボタンをクリックするとクレジットカードによる決済が完了します。"
+
+#: ../includes/class-yith-stripe-gateway.php:460
+msgid "Payment was declined by Stripe."
+msgstr "決済代行サービス（Stripe）によりカードが拒否されました。"
+
+#: ../includes/class-yith-stripe-premium.php:214
+#: ../includes/class-yith-stripe-premium.php:281
+msgid "Saved cards"
+msgstr "ご利用できるカード"
+
+#: ../includes/class-yith-stripe-premium.php:215
+msgid "Manage cards"
+msgstr "カードの管理"
+
+#: ../includes/class-yith-stripe-premium.php:349
+msgid "Card deleted successfully."
+msgstr "カードが削除されました。"
+
+#: ../includes/class-yith-stripe-premium.php:407
+msgid "Card updated successfully."
+msgstr "カード情報が上書きされました。"
+
+#: ../includes/class-yith-stripe-webhook.php:97
+#, php-format
+msgid "Captured only %s via Stripe."
+msgstr "%s の決済が完了しました。"
+
+#: ../includes/class-yith-stripe-webhook.php:108
+msgid "Charge captured via Stripe account."
+msgstr "Stripe アカウント経由で決済が確定しました。"
+
+#: ../includes/class-yith-stripe-webhook.php:157
+msgid "Refunded via Stripe."
+msgstr "決済代行サービス（Stripe）経由で返金されました。"
+
+#: ../includes/class-yith-stripe-webhook.php:178
+msgid "Authorization released via Stripe."
+msgstr "決済代行サービス（Stripe）により、オーソリが解除されました。"
+
+#: ../includes/class-yith-stripe.php:178
+msgid "Stripe Credit Card Refund failed because the Transaction ID is missing."
+msgstr "トランザクションIDが不明なため、返金に失敗しました。"
+
+#: ../includes/class-yith-stripe.php:192
+msgid "Charge not captured."
+msgstr "決済は確定されていません。"
+
+#: ../init.php:45
+msgid ""
+"YITH WooCommerce Stripe Payment Gateway is enabled but not effective. It "
+"requires Woocommerce in order to work."
+msgstr ""
+"YITH WooCommerce Stripe Payment Gatewayは利用可能ですが有効ではありません。"
+"Woocommerceが必要です。"
+
+#: ../templates/admin/blacklist-table.php:18
+msgid "Stripe Blacklist"
+msgstr "Stripeブラックリスト"
+
+#: ../templates/admin/blacklist-table.php:24
+msgid "Search bans"
+msgstr "検索"
+
+#: ../templates/admin/settings-tab.php:19
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: ../templates/stripe-checkout-cards.php:17
+msgid "Your credit cards"
+msgstr "クレジットカード一覧"
+
+#: ../templates/stripe-checkout-cards.php:41
+msgid "New card"
+msgstr "新しいカード"
+
+#: ../templates/stripe-saved-cards.php:25
+#: ../templates/stripe-saved-cards.php:47
+msgid "Expire"
+msgstr "期限"
+
+#: ../templates/stripe-saved-cards.php:42
+msgid "default"
+msgstr "主に使用するカード"
+
+#: ../templates/stripe-saved-cards.php:44
+msgid "set default"
+msgstr "主に使用するカードとして設定する"
+
+#: ../templates/stripe-saved-cards.php:51
+msgid "Delete"
+msgstr "削除"
+
+#: ../templates/stripe-saved-cards.php:62
+msgid "No cards saved"
+msgstr "利用可能なカードはありません"
